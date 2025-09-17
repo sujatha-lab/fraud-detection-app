@@ -1,3 +1,4 @@
 creditcard[[:space:]](1).csv filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 creditcard.csv filter=lfs diff=lfs merge=lfs -text
+C:/Users/grace/OneDrive/Desktop/fraud-detection-app/creditcard.csv filter=lfs diff=lfs merge=lfs -text
